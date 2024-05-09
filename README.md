@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Soubhagya-Nayak
-- 👀 I’m interested in Travelling and making memories
-- 🌱 I’m currently learning Web Development
-- 📫 Reach me at Khandagiri Bhubaneswar
+- 👀 I’m interested in gaining knowledge 
+- 🌱 I’m currently learning Data Structure And Algorithims
+- 📫 Reach me nayaksoubhagya298@gmail.com
 
 <!---
 Soubhagya-Nayak/Soubhagya-Nayak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
