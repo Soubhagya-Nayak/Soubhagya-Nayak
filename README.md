@@ -1,4 +1,4 @@
-![logo](https://github.com/Soubhagya-Nayak/Soubhagya-Nayak/blob/main/api.gif)
+![logo](https://github.com/Soubhagya-Nayak/Soubhagya-Nayak/blob/main/banner.gif)
 <h1 align="center">Hi 👋, I'm Soubhagya Nayak</h1>
 <h3 align="center">A passionate Computer Science Engineer.</h3>
 
