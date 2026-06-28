@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Frameworks, AWS.**
 
-- 👨‍💻 All of my projects are available at [https://dimplesahooportfolio.netlify.app](https://dimplesahooportfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [Soubhagya Nayak](https://soubhagyanayak.netlify.app)
 
 - 💬 Ask me about **Java, SpringBoot, MongoDB**
 
